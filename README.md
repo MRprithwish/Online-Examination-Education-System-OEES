@@ -45,9 +45,6 @@ The backend is built with **Django + MySQL**, the frontend is deliberately frame
 | Ankit Saha | 11900122085 |
 | Prithwish Narayan Majumder | 11900122118 |
 
-### Project Guide
-
-**Prof. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** *(add guide's name)*
 
 ---
 
