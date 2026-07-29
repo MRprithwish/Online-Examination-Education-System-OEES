@@ -36,7 +36,6 @@ The backend is built with **Django + MySQL**, the frontend is deliberately frame
 ## 👨‍💻 Project Team
 
 ### Department of Computer Science & Engineering
-### Siliguri Institute of Technology
 
 | Name | Roll No |
 |------|---------|
@@ -269,4 +268,4 @@ python server.py
 
 ---
 
-© This project was developed for academic and research purposes as part of the Bachelor of Technology (B.Tech) degree requirement at Siliguri Institute of Technology.
+© This project was developed for academic purposes as part of the Bachelor of Technology (B.Tech) degree requirement at Siliguri Institute of Technology.
