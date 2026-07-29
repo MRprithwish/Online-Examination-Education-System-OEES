@@ -37,12 +37,12 @@ The backend is built with **Django + MySQL**, the frontend is deliberately frame
 
 ### Department of Computer Science & Engineering
 
-| Name | Roll No |
-|------|---------|
-| Abhishek Chakroborty | 11900122083 |
-| Anirudha Gorai | 11900122123 |
-| Ankit Saha | 11900122085 |
-| Prithwish Narayan Majumder | 11900122118 |
+
+- Abhishek Chakroborty
+- Anirudha Gorai
+- Ankit Saha
+- Prithwish Narayan Majumder
+- Ayandeep Roy
 
 
 ---
